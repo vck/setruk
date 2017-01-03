@@ -1,7 +1,6 @@
 # tentang *setruk*
 
 *Setruk* merupakan bentuk realisasi dari ide
-<<<<<<< HEAD
 bagaimana *mesin* bisa mengetahui "jenis kelamin" dari sebuah *nama*. Dalam tahap ini, setruk masih berupa **proyek riset** dengan tujuan akhir
 membuat mesin yang bisa membedakan jenis kelamin dari sebuah nama.
 
@@ -14,20 +13,15 @@ membuat mesin yang bisa membedakan jenis kelamin dari sebuah nama.
 
 
 
-=======
 bagaimana "mesin" bisa mengetahui "jenis kelamin" dari sebuah "nama". Dalam tahap ini, setruk masih berupa **proyek riset** dengan tujuan akhir
 membuat mesin yang bisa membedakan jenis kelamin dari sebuah nama.
 
->>>>>>> 5e13e8a099d52372fdea87d7078d21be56004335
 # kontributor
 
 berikut kontributor setruk, diurut secara alfabetis:
 
 - Ahadiah Ayu Muliawati Fajri
-<<<<<<< HEAD
 - Hafizhan Anas Shidqi
-=======
->>>>>>> 5e13e8a099d52372fdea87d7078d21be56004335
 - Vicky Vernando Dasta
 
 
