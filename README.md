@@ -12,12 +12,12 @@ membuat mesin yang bisa membedakan jenis kelamin dari sebuah nama orang.
 2. Pengolahan data
 
 
-# morfologi nama orang 
+# morfologi 
 
 Nama orang pada bahasa indonesia biasanya terdiri dari 2-4 suku kata, dimana kata terakhir merupakan nama keluarga yang sifatnya turunan, dan diambil dari nama ayah, kakek, ataupun ayah dari kakek. 
 
 
-# distribusi token dari nama orang d 
+# distribusi token 
 
 Data berikut diambil dari 318 nama, dimana diantara nama tersebut 120 perempuan dan 180 laki-laki. 
 
