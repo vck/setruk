@@ -26,6 +26,13 @@ diselesaikan menggunakan klasifikasi (*supervised learning*).
 mesin bisa membedakan jenis kelamin dari sebuah nama.
 ini tentunya bergantung pada jumlah dataset yang dilatihkan pada algoritma klasifikasi.
 
+dari 1672 dataset (nama, gender), setelah dilakukan klasifikasi menggunakan support vector machine dan random forest.
+
+score akurasi dari: 
+
+- support vector machine: 73.09%
+- random forest: 68.01%
+  
 
 # kontributor
 
