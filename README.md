@@ -38,13 +38,13 @@ berikut kontributor setruk, diurut secara alfabetis:
 # lisensi
 
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
+                    December 2017
 
-    Copyright (C) 2016 Vicky Vernando Dasta  <vickydasta@gmail.com>
+    Copyleft (c) 2016 Vicky Vernando Dasta  <vickydasta@gmail.com>
 
 Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
+copies of this license document, and changing it is allowed as long
+as the name is changed.
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
