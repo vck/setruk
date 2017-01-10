@@ -12,21 +12,19 @@ membuat mesin yang bisa membedakan jenis kelamin dari sebuah nama orang.
 2. Pengolahan data
 
 
-# morfologi 
+# Pengumpulan data 
 
-Nama orang pada bahasa indonesia biasanya terdiri dari 2-4 suku kata, dimana kata terakhir merupakan nama keluarga yang sifatnya turunan, dan diambil dari nama ayah, kakek, ataupun ayah dari kakek. 
+data didapatkan dari kontributor dan berbagai sumber data yang ditemukan di mesin pencari.
 
+# Pengolahan data 
 
-# distribusi token 
+setelah terkumpul, data dibersihkan, kemudian karena kebanyakan data sudah terlabeli, permasalahan ini bisa 
+diselesaikan menggunakan klasifikasi (*supervised learning*).
 
-Data berikut diambil dari 318 nama, dimana diantara nama tersebut 120 perempuan dan 180 laki-laki. 
+# Kesimpulan sementara 
 
-- "ni" 
-
-kata ini ditemukan pada 18 nama laki-laki dan pada 34 nama perempuan.
-
-- "na"
-
+mesin bisa membedakan jenis kelamin dari sebuah nama.
+ini tentunya bergantung pada jumlah dataset yang dilatihkan pada algoritma klasifikasi.
 
 
 # kontributor
@@ -37,5 +35,18 @@ berikut kontributor setruk, diurut secara alfabetis:
 - Hafizhan Anas Shidqi
 - Vicky Vernando Dasta
 
+# lisensi
 
+        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+                    Version 2, December 2004
 
+    Copyright (C) 2016 Vicky Vernando Dasta  <vickydasta@gmail.com>
+
+Everyone is permitted to copy and distribute verbatim or modified
+ copies of this license document, and changing it is allowed as long
+ as the name is changed.
+
+            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+  0. You just DO WHAT THE FUCK YOU WANT TO.
