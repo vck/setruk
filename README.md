@@ -38,7 +38,7 @@ berikut kontributor setruk, diurut secara alfabetis:
 # lisensi
 
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    December 2017
+                    December 2016
 
     Copyleft (c) 2016 Vicky Vernando Dasta  <vickydasta@gmail.com>
 
