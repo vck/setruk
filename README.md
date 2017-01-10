@@ -12,16 +12,16 @@ membuat mesin yang bisa membedakan jenis kelamin dari sebuah nama orang.
 2. Pengolahan data
 
 
-# Pengumpulan data 
+# pengumpulan data 
 
 data didapatkan dari kontributor dan berbagai sumber data yang ditemukan di mesin pencari.
 
-# Pengolahan data 
+# pengolahan data 
 
 setelah terkumpul, data dibersihkan, kemudian karena kebanyakan data sudah terlabeli, permasalahan ini bisa 
 diselesaikan menggunakan klasifikasi (*supervised learning*).
 
-# Kesimpulan sementara 
+# kesimpulan sementara 
 
 mesin bisa membedakan jenis kelamin dari sebuah nama.
 ini tentunya bergantung pada jumlah dataset yang dilatihkan pada algoritma klasifikasi.
